@@ -17,7 +17,7 @@ df.columns = df.columns.str.strip()
 
 # Print the first few rows of the DataFrame
 print(df.head())
-     
+# Show basic information about the DataFrame
 
 # Show each plot in a separate window for clarity
 # Status Distribution
